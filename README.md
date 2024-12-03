@@ -1,2 +1,2 @@
-# Internet Banking App
- project
+# Internet Banking Application
+ 
